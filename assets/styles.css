@@ -6,7 +6,7 @@
 }
 .logo {
 	width: 100px;
-	margin-left: 10px;
+	margin: 10px 0 0 10px;
 }
 .test {
 	border: 1px solid red;
@@ -21,5 +21,21 @@
 	margin-left: 15px;
 }
 .nav {
-	margin-top: 10px;
+	margin-top: 15px;
+}
+/* fond bg test */
+.fond-1 {
+	height: 100px;
+	width: 100px;
+	background: chocolate;
+}
+.fond-2 {
+	height: 600px;
+	background: rgb(185, 124, 80);
+}
+.fond-3 {
+	height: 600px;
+}
+.carousel-jc {
+	width: 600px;
 }
