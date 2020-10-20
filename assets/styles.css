@@ -23,6 +23,29 @@
 .nav {
 	margin-top: 15px;
 }
+/* meteo */
+.bg-meteo {
+	margin-top: 20px;
+	padding-bottom: 20px;
+	background: rgba(43, 93, 242, 0.2);
+}
+.meteo {
+	display: flex;
+	justify-content: center;
+}
+.meteo iframe {
+	margin: 10px 25px;
+}
+/* carte region */
+.map-size {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+.map-size img {
+	width: 400px;
+}
+
 /* fond bg test */
 .fond-1 {
 	height: 100px;
